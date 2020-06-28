@@ -28,7 +28,7 @@
     <div id="footer">
       <h2 style="margin-left: 450px;float: left;background-color: #ffcc99"> 无人组制作</h2>
       <br>
-        <h5 style="margin-right: 450px; height:100px;float: right;"><strong>team: </strong>成员1 ，成员2 ，成员3，成员4，成员5</h5>
+        <h5 style="margin-right: 450px; height:100px;float: right;"><strong>team: </strong>雷坤峰 ，郑方豪 ，胡雅洁，缪婷婷，郭朴园</h5>
     </div>
   </div>
 </template>
